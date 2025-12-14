@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Applied Data Scientist | Kened Kqiraj</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo">Kened Kqiraj</div>
+    <nav class="nav">
+      <a href="#projects">Projects</a>
+      <a href="#expertise">Expertise</a>
+      <a href="#process">Process</a>
+      <a class="cta" href="#contact">Schedule a call</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero__text">
+        <p class="pill">Analytical · Trustworthy · Applied</p>
+        <h1>Production-ready data science you can deploy with confidence.</h1>
+        <p class="lede">Applied data scientist with a strong foundation in modeling and machine learning, focused on building reliable, explainable solutions for real-world problems.</p>
+        <div class="hero__actions">
+          <a class="btn primary" href="#contact">Start a project</a>
+          <a class="btn ghost" href="#projects">View portfolio</a>
+        </div>
+        <div class="stats">
+          <div class="stat">
+            <span class="stat__value">12+</span>
+            <span class="stat__label">Production deployments</span>
+          </div>
+          <div class="stat">
+            <span class="stat__value"><span aria-hidden="true">99.9%</span><span class="sr-only">Ninety nine point nine percent</span></span>
+            <span class="stat__label">Uptime on shipped models</span>
+          </div>
+          <div class="stat">
+            <span class="stat__value">A/B</span>
+            <span class="stat__label">Experiment-driven mindset</span>
+          </div>
+        </div>
+      </div>
+      <div class="hero__card" aria-hidden="true">
+        <div class="card__header">
+          <span>RAG QA Bot</span>
+          <span class="status">Online</span>
+        </div>
+        <div class="card__body">
+          <p class="eyebrow">Live demo</p>
+          <p class="card__title">Interactive chatbot that lets hiring teams explore my projects and technical decisions.</p>
+          <div class="badge-row">
+            <span class="badge">Retrieval pipelines</span>
+            <span class="badge">Eval harness</span>
+            <span class="badge">Observability</span>
+          </div>
+          <div class="signals">
+            <div class="signal">
+              <div class="signal__label">Latency (p95)</div>
+              <div class="signal__value">280 ms</div>
+            </div>
+            <div class="signal">
+              <div class="signal__label">Grounded responses</div>
+              <div class="signal__value">>95%</div>
+            </div>
+            <div class="signal">
+              <div class="signal__label">Guardrails</div>
+              <div class="signal__value">PII & hallucination checks</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="section__header">
+        <p class="eyebrow">Selected work</p>
+        <h2>Projects that translate to production.</h2>
+        <p class="section__lede">A mix of ML systems, experimentation, and data products designed to be deployed, observed, and iterated quickly.</p>
+      </div>
+      <div class="grid">
+        <article class="card">
+          <div class="card__tag">Modeling</div>
+          <h3>Demand forecasting for multi-region inventory</h3>
+          <p>Built gradient boosted and temporal fusion models with feature stores, reducing stockouts by 18% while keeping explainability for ops teams.</p>
+          <ul>
+            <li>Forecast accuracy improved by 12% vs baseline</li>
+            <li>Integrated SHAP summaries into ops dashboard</li>
+            <li>Automated data quality checks prior to retrain</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="card__tag">Applied ML</div>
+          <h3>Customer health scoring with uplift experiments</h3>
+          <p>Designed a scoring system combining churn propensity with next-best-action, validated with A/B tests and iterated through weekly sprints.</p>
+          <ul>
+            <li>Double-digit lift in retention for targeted cohort</li>
+            <li>Clear handoff to success teams with playbooks</li>
+            <li>Pipeline monitored with anomaly alerts</li>
+          </ul>
+        </article>
+        <article class="card">
+          <div class="card__tag">RAG + LLM Ops</div>
+          <h3>Portfolio exploration chatbot</h3>
+          <p>Built a personal RAG-based chatbot so hiring teams can explore my projects and technical decisions interactively.</p>
+          <ul>
+            <li>Hybrid retrieval with structured + unstructured sources</li>
+            <li>Eval harness for grounded responses and latency</li>
+            <li>Guardrails for PII and hallucination reduction</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="expertise" class="section section--tinted">
+      <div class="section__header">
+        <p class="eyebrow">Expertise</p>
+        <h2>The rigor of an analyst, the pragmatism of an engineer.</h2>
+        <p class="section__lede">I partner closely with product and engineering to ship models that stay healthy in production.</p>
+      </div>
+      <div class="pill-list">
+        <span class="pill">Model development: tree-based, time-series, and embeddings</span>
+        <span class="pill">MLOps: feature stores, CI/CD for models, observability</span>
+        <span class="pill">Experimentation: A/B testing, uplift, and sequential testing</span>
+        <span class="pill">Explainability: SHAP, counterfactuals, stakeholder-ready narratives</span>
+        <span class="pill">Data reliability: validation suites, monitoring, and alerts</span>
+        <span class="pill">LLM systems: retrieval design, prompt evaluation, guardrails</span>
+      </div>
+    </section>
+
+    <section id="process" class="section">
+      <div class="section__header">
+        <p class="eyebrow">Process</p>
+        <h2>A steady path from idea to dependable deployment.</h2>
+      </div>
+      <div class="timeline">
+        <div class="step">
+          <div class="step__marker">1</div>
+          <div>
+            <h3>Discover</h3>
+            <p>Clarify the decision to be improved, success metrics, and data landscape. Quick data quality scan up front.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step__marker">2</div>
+          <div>
+            <h3>Prototype</h3>
+            <p>Build a measurable baseline, define evaluation criteria, and validate with small experiments.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step__marker">3</div>
+          <div>
+            <h3>Productionize</h3>
+            <p>Harden pipelines, add monitoring, and integrate with existing systems. Document decisions for handoff.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step__marker">4</div>
+          <div>
+            <h3>Observe & iterate</h3>
+            <p>Track drift, reliability, and business impact. Partner with teams to iterate quickly on real signals.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section section--tinted">
+      <div class="cta-card">
+        <div>
+          <p class="eyebrow">Let’s collaborate</p>
+          <h2>Need a production-ready data scientist?</h2>
+          <p class="section__lede">Tell me about your current goals, datasets, and stakeholders. I’ll share a concise plan with risks, instrumentation, and success metrics.</p>
+        </div>
+        <div class="cta-card__actions">
+          <a class="btn primary" href="mailto:kened.kqiraj@gmail.com">Email me</a>
+          <a class="btn ghost" href="https://www.linkedin.com/in/kened-kqiraj" target="_blank" rel="noreferrer">Connect on LinkedIn</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div>© 2024 Kened Kqiraj · Applied Data Scientist</div>
+    <div class="footer__links">
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </footer>
+</body>
+</html>
