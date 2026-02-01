@@ -1,22 +1,29 @@
-- 👋 Hi, I’m @kennedkqiraj
+👋 Hey there, welcome to my GitHub!
+I’ve just finished my Master’s in Applied Information and Data Science at HSLU, and I’m someone who genuinely enjoys playing with data and building things that actually do something useful.
 
+I like turning messy data into cool insights, experimenting with AI, and seeing how far I can push models to solve real-life problems (and sometimes just for fun).
 
-👋 Welcome to my GitHub profile! I'm currently pursuing a Master's in Applied Information and Data Science at the Lucerne University of Applied Sciences and Arts (HSLU). My passion lies in harnessing the power of data science, artificial intelligence, and machine learning to solve real-world problems and uncover actionable insights from data.
+✨ What I enjoy doing:
 
-🚀 What I'm Passionate About: Data Science: I'm fascinated by how data can be transformed into meaningful insights that drive decision-making and innovation. Generative AI: Exploring the capabilities of AI models, particularly in natural language processing and creative AI, excites me. Machine Learning & AI: I’m passionate about leveraging machine learning to build predictive models and create intelligent systems. Data Wrangling & Analysis: Cleaning and preparing raw data to make it analysis-ready is something I love doing, as it’s the first step toward impactful data science projects. Big Data: I enjoy working with large datasets and uncovering hidden patterns that aren't always visible at first glance. 🔧 Tech Skills: Programming Languages: Python, R Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Finding interesting stories hidden in data
 
-🌱 What I’m Currently Working On: I’m involved in a variety of projects focused on data analysis, machine learning, and generative AI. My current focus is on: Data Science Projects: Applying data wrangling, exploratory analysis, and machine learning to real-world datasets. Generative AI Models: Exploring applications of language models in creative tasks and enhancing human-AI interactions.
+Playing around with AI and language models
 
-📚 Education: Master’s in Applied Information and Data Science Lucerne University of Applied Sciences and Arts (HSLU)
+Building small projects that solve real problems
 
-💡 What’s Next: I’m looking to dive deeper into:
+Cleaning data (yes, I’m one of those people 😅)
 
-Advanced Machine Learning: Expanding my knowledge in deep learning, reinforcement learning, and time-series analysis. Data Science for Social Good: Applying data science to solve problems in health, education, and sustainability.
+Exploring big datasets and spotting patterns
 
-📫 How to Reach Me: Feel free to connect with me on www.linkedin.com/in/kened-kqiraj.
+🛠 Tools I often use:
+Mostly Python and R, plus the usual data libraries for analysis and visuals.
 
+🌱 What I’m working on:
+You’ll find projects here about data, machine learning, and AI — from practical stuff to experimental ideas.
 
-<!---
-kennedkqiraj/kennedkqiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 What’s next:
+I want to keep learning, building, and using data and AI for things that actually matter — especially in health, sustainability, and everyday life.
+
+📫 Let’s connect:
+If you like data, AI, or just cool projects, feel free to reach out:
+👉 www.linkedin.com/in/kened-kqiraj
